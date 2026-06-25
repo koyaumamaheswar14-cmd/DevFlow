@@ -150,6 +150,27 @@ After starting all services, access them through the API Gateway.
 | POST | http://localhost:8080/api/deployments |
 | PUT | http://localhost:8080/api/deployments/{id} |
 | DELETE | http://localhost:8080/api/deployments/{id} |
+## API Testing
+
+The REST APIs were tested using Postman.
+
+**Postman Collection:**
+
+* [https://your-postman-collection-link](https://koyaumamaheswar14-cmd-2520415.postman.co/workspace/Api-v2~c27e8093-3c3b-44db-b122-2214286c20ac/folder/51740919-8df2824a-6311-4956-af24-0fb04251a075?action=share&source=copy-link&creator=51740919)
+
+**Base URL:**
+
+```
+http://localhost:8080
+```
+
+Example Endpoints:
+
+* `GET /api/users`
+* `GET /api/repos`
+* `GET /api/builds`
+* `GET /api/deployments`
+
 
 ## Future Scope
 
