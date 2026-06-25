@@ -1,6 +1,6 @@
 # DevFlow
 
-DevFlow is a microservices-based DevOps platform built using Spring Boot. It provides a centralized API Gateway for routing requests to multiple backend services and is designed as the foundation for a scalable CI/CD platform.
+DevFlow is a scalable microservices-based DevOps platform built with Spring Boot and Spring Cloud Gateway. It centralizes repository management, build orchestration, deployment routing, and user management through a single API Gateway. The project is designed as the foundation for a complete CI/CD automation platform.
 
 ## Features
 
