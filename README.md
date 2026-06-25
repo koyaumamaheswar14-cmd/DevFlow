@@ -71,7 +71,7 @@ devflow/
 - Developed REST APIs using Spring Boot.
 - Designed a modular microservices architecture for scalability and maintainability.
 
-## Planned Features
+## Upcoming Features
 
 - Git Repository Integration
 - Automated Build Execution (Maven/Gradle)
