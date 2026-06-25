@@ -38,6 +38,18 @@ DevFlow is a microservices-based DevOps platform built using Spring Boot. It pro
 - Spring Cloud Gateway
 - Maven
 - REST APIs
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| Java | Core programming language |
+| Spring Boot | Building microservices and REST APIs |
+| Spring Cloud Gateway | Centralized API Gateway and request routing |
+| Maven | Dependency management and project build |
+| REST APIs | Communication between services |
+| Git | Version control |
+| GitHub | Source code hosting and collaboration |
+| Postman | API testing and validation |
 
 ## Project Structure
 
